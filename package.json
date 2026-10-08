@@ -1,0 +1,25 @@
+{
+  "name": "ruknstudios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:webhook": "node scripts/test-webhook.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menahil-atif/ruknstudios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/menahil-atif/ruknstudios/issues"
+  },
+  "homepage": "https://github.com/menahil-atif/ruknstudios#readme",
+  "dependencies": {
+    "nodemailer": "^10.0.12"
+  }
+}
